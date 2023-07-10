@@ -1,0 +1,5 @@
+Coding Pattern 1 
+Frequency Counter
+
+Frequency counter is used to collect valyes frequencies of values to avoid two for loops
+Two array 
