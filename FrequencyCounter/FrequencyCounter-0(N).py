@@ -16,5 +16,6 @@ def same(list1, list2):
         if (key2 not in fc2) and (fc1[key] != fc2.get(key2)):
             return False
     return True
+
 a = same(list1, list2)
 print(a)
