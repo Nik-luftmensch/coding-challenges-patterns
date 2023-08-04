@@ -1,0 +1,21 @@
+-- Frequency Counter
+Find if the square of a number in list one is present in list 2
+Find if the anagram 
+Are there Duplicates - FC and Bonus (0Logn) Solution
+
+- - Multipointers
+Sum of two number is zero, numbers are sorted
+Two Sum
+Count the number of Unique Values 
+Average Pair
+Is SubSequence
+
+- - Sliding Window 
+Max Sub Array 
+Min Sub ArrayLen - The function Should return the minimal length of contigious subarray of which the sum is greater than or equal to the integer passed to the function
+findLongestSubstringlength
+
+-- Divide and Conquer 
+Given a Number in Sorted Array return the index
+
+

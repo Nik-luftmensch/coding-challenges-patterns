@@ -1,0 +1,9 @@
+Coding Pattern 3
+Sliding Window
+
+The pattern involves creating a window which can either be an array 
+or number from one position to another 
+
+Depending on a certain condition, the window either increases or closes (And a new window is created)
+
+Very useful for keeping a track of subset of data in an array string etc
