@@ -15,4 +15,21 @@
 
 # Space Complexity - O(1)
 
+list = [2,3,1,2,4,3]
+sum = 7
+def minSubArrayLen():
+    start = 0
+    end = 0
+    currentSum = 0
+    minLen = 0
+
+    for start in range(len(list)):
+        
+
+
+
+
+a = minSubArrayLen(list,sum)
+print(a)
+
 
